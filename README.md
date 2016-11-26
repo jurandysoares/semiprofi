@@ -1,8 +1,9 @@
 # Seminário de Orientação para Prática Profissional
-**Curso:** Técnico Subsequente em Redes de Computadores
-**Seminário:** Seminário de Orientação para a Prática Profissional
-**Carga-horária:** 30 horas
-**Responsável:** Professor do curso (previamente designado pela coordenação do curso) em conjunto com o coordenador de estágio do Câmpus ou do curso.
+
+* **Curso:** Técnico Subsequente em Redes de Computadores
+* **Seminário:** Seminário de Orientação para a Prática Profissional
+* **Carga-horária:** 30 horas
+* **Responsável:** Professor do curso (previamente designado pela coordenação do curso) em conjunto com o coordenador de estágio do Câmpus ou do curso.
 
 ## Temas
 * Prática profissional como componente curricular;
